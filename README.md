@@ -15,10 +15,10 @@ I build practical and user-focused web applications. I enjoy turning ideas into 
 ## Tech Stack
 
 **Frontend**  
-HTML · CSS · JavaScript
+HTML · CSS · JavaScript · TailwindCSS
 
 **Backend**  
-Java · Spring Boot · REST API
+JavaScript · Java · Spring Boot · REST API · Python
 
 **Tools**  
 Git · GitHub · Maven · Postman
@@ -35,8 +35,8 @@ Git · GitHub · Maven · Postman
 ## Connect With Me
 
 - Portfolio: [rioalfindra](https://rio-alfindra.netlify.app/)
-- LinkedIn: `add-your-linkedin-url-here`
-- Email: `add-your-professional-email-here`
+- LinkedIn: https://www.linkedin.com/in/rioalfindra
+- Email: rioalfindra@gmail.com
 
 ---
 
