@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Hi, I'm Rio Alfindra 👋
+## Hi there 👋, I'm Rio Alfindra 👋
 
 ### Junior Full-stack Developer | Java & Spring Boot | Web Development
 
