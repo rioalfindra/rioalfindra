@@ -34,7 +34,7 @@ Git · GitHub · Maven · Postman
 
 ## Connect With Me
 
-- Portfolio: [rioalfindra.github.io](https://rioalfindra.github.io/)
+- Portfolio: [rioalfindra](https://rio-alfindra.netlify.app/)
 - LinkedIn: `add-your-linkedin-url-here`
 - Email: `add-your-professional-email-here`
 
